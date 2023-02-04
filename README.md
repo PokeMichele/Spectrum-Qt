@@ -51,9 +51,6 @@ Spectrum-Qt is a simple GUI Software that allows you to create a Circular Spectr
 - Insert the file path (without file extension).
 - Insert "single" or "dual" to set the mode (mono or stereo). If you don't know what to put inside the enry leave it blank.
 - Click "Run"!
-
-![Screenshot](screen01.jpg)
-
 ## FAQ
 - Is Spectrum-Qt related to py_spec?
     - Spectrum-Qt uses py_spec for a part of the process, but it can be replaced with any other script that does the same thing.
