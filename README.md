@@ -1,4 +1,4 @@
-# SpineGTK
+# Spectrum-Qt
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 Spectrum-Qt is a simple GUI Software that allows you to create a Circular Spectrogram from a .wav File.
