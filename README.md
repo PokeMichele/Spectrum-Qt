@@ -27,7 +27,14 @@ Spectrum-Qt is a simple GUI Software that allows you to create a Circular Spectr
             ```
             sudo pacman -S python python-pip qt5-base ffmpeg git
             ```
-        - On Windows & MacOS:
+        - On Windows:
+            - Download the installers from the official websites and install them
+            - You can also use winget to install Python 3 and git
+            ```
+            winget install -e --id Python.Python.3.9
+            winget install -e --id Git.Git
+            ```
+        - On MacOS:
             - Download the installers from the official websites and install them
      - Install required Python Modules with pip:
         ```
